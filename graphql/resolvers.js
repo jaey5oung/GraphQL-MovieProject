@@ -11,7 +11,7 @@ const people = [
   },
   {
     name: "jang",
-    age: 18,
+    age: 19,
     gender: "male",
   },
 ]
